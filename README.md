@@ -79,6 +79,7 @@ This is also a great time to start building supporting libraries to easy connect
 [[code example for library]]
 [[code example for shortcuts]]
 
+
 ## (The universe and beyond) going Kubernetes 
 This is the phase my company is currently working on.
 
@@ -86,4 +87,41 @@ The original choice of working with JupyterHub and Airflow was largely driven by
 
 More to come on this section as we progress.
 
+## Going Big (Data)
+
+### Ops
+
+####Kubernetes
+
+Deployment flavors: Kops, EKS, Terraform
+
+#### Helm
+
+### Distributed Compute Systems
+
+### NYCTaxi dataset
+
+#### Spark
+
+##### Spark-on-k8s operator
+####  Livy 
+
+#### Pyspark from Jupyter
+#### (Scala) Spark from Jupyter using Almond Kernel and Ammonite
+
+####Dask
+
+##### Dask Helm Chart
+##### Dask from Jupyter
+
+###Advanced Ops
+
+####Autoscaling
+#### Dask Adaptive Deployments
+
+
+### Plugs for mason throughout?
+
+####EMR
+Many people will still opt to use EMR even though the cost isn't small-fry type expense structure, could cover briefly
 
