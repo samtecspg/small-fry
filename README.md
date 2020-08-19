@@ -89,6 +89,10 @@ More to come on this section as we progress.
 
 ## Going Big (Data)
 
+### What is "Big" Data
+### Do you have Big Data?
+-  Discuss difference between data volume, velocity and footprint (complexity of pipelines)
+
 ### Ops
 
 ####Kubernetes
